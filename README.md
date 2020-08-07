@@ -1,0 +1,2 @@
+# URP_Class_Schedule
+爬取新版URP教务系统课表并生成ICS日历文件
