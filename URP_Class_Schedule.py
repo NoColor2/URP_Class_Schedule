@@ -14,7 +14,7 @@ def md5(str):
 
 
 config = configparser.ConfigParser()
-config.read('config.ini')
+config.read('config.ini', encoding='UTF-8')
 
 # 教务系统地址
 url = config['URP'].get('url')
